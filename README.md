@@ -4,7 +4,7 @@ Plop setup example for React components.
 ### How it works
 
 1. Run `npm run plop` from a command line interface.
-2. Write the component's names.
+2. Write the component's name.
 3. Voilà ! 🔥
 
 ### How to customize it
